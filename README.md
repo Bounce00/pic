@@ -14,23 +14,9 @@ center test
  
 </p>
 
----
-youku_id: 
-youtube_id: 
-qq_video_id: 
-b_av: 
-b_page: 1
-title: 信号的频谱 频谱密度 功率谱密度 能量谱密度的区别
-description: "."
-chapter: 1
-category: signal-processing-theory
-post-headings:
-author-link: #
-no-video: true
-publish-date: 2019-11-26
-thumbnail: /static/img/course_cover-small/signal-processing.png
-index: 1
----
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=P=\frac{U^2}{R}=I^2R=U^2=I^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P=\frac{U^2}{R}=I^2R=U^2=I^2" title="P=\frac{U^2}{R}=I^2R=U^2=I^2" /></a>
 
 
  
