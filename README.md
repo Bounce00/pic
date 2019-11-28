@@ -18,7 +18,7 @@ center test
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=P=\frac{U^2}{R}=I^2R=U^2=I^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P=\frac{U^2}{R}=I^2R=U^2=I^2" title="P=\frac{U^2}{R}=I^2R=U^2=I^2" /></a>
 
-<p>
+<p align="center">
 <img src="https://latex.codecogs.com/gif.latex?P=\frac{U^2}{R}=I^2R=U^2=I^2" title="P=\frac{U^2}{R}=I^2R=U^2=I^2" />
  </p>
  
