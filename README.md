@@ -18,8 +18,9 @@ center test
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=P=\frac{U^2}{R}=I^2R=U^2=I^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P=\frac{U^2}{R}=I^2R=U^2=I^2" title="P=\frac{U^2}{R}=I^2R=U^2=I^2" /></a>
 
-
- 
+<p>
+<img src="https://latex.codecogs.com/gif.latex?P=\frac{U^2}{R}=I^2R=U^2=I^2" title="P=\frac{U^2}{R}=I^2R=U^2=I^2" />
+ </p>
  
 &emsp;&emsp;这几个概念，对于刚学信号系统的同学甚至对于很多信号处理的老手来说，都是分不清楚的，下面我们就一一解释这几个概念。
 
